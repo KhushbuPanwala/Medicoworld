@@ -1,0 +1,102 @@
+Call record with client 
+https://promactinfotech1-my.sharepoint.com/:u:/g/personal/hasan_promactinfo_com/ESTx1VBK3E5In1vzpt6sKMABYuH3CbeekK3yYojAUSqy9A?e=3Hdtjf
+ 
+List of pending tasks created by Hasanbhai
+https://promactinfotech1-my.sharepoint.com/:x:/g/personal/hasan_promactinfo_com/EYJhrYDe8UBLmoOdvY7eufoBq2_S2nkNFT8JqvS2z_ddXA?e=xV1LNx
+
+
+Link for wireframes and documents.
+https://medicoworld.atlassian.net/wiki/home
+username : hasan@promactinfo.com
+password : +J42'7Rda'?"L8T
+
+Medigit-virtual-LLP/medico-client repository
+https://github.com/Medigit-virtual-LLP/medico-client
+
+Medigit-virtual-LLP/strapi-backend repository
+https://github.com/Medigit-virtual-LLP/strapi-backend
+
+scedule meeting on team client id
+medico.org.in@gmail.com
+
+Steps for setup
+1. Clone both repository from github
+2. do npm i in both project
+2. Client Repository
+	ng serve
+3. Strapi (server side) repository	
+	npm run build
+ open config --> database.js --> set postgress credential
+ Create database in postgress "strapi" 
+	npm run develop
+ open https://localhost:1337/admin 
+ Register basic detail 
+
+4. import json data 
+ also choose content type 
+5. open localhost:4200/society --> create society and start exploring 
+
+
+Credential for strapi
+Username: khushbupanwala@promactinfo.com
+Password: Khushbu@1993 
+	
+
+	create new society
+	http://localhost:4200/society/create-society
+http://localhost:4200/society/	
+http://localhost:4200/society/society-create-registration/2
+http://localhost:4200/society/1/about-us	
+http://localhost:4200/society/society-list
+http://localhost:4200/society/society-executive-committee/2
+
+http://localhost:4200/society/edit-society/3
+http://localhost:4200/society/society-member-directory/3
+
+
+http://localhost:1337/societies?society=2
+
+
+*ngIf="!$first"	
+	
+	
+Traders Module
+page no 27
+	
+git hub 
+Khushbupanwala@promactinfo.com
+khushbu@1993
+
+
+Your bulk sms account login details.
+Site:-  Mobizz.hginfosys.co.in 
+Username:- Medico
+Password:- hginfo1
+
+https://codepen.io/SitePoint/pen/raBPeo
+
+Accordion  
+https://stackblitz.com/edit/angular-table-accordion-cmxx2q?file=src%2Fapp%2Fapp.component.scss
+
+send mail
+https://strapi.io/documentation/developer-docs/latest/guides/send-email.html#apply-our-changes
+https://strapi.io/documentation/developer-docs/latest/development/plugins/email.html#troubleshooting
+https://strapi.io/documentation/developer-docs/latest/guides/send-email.html#apply-our-changes
+https://antonioufano.com/articles/easily-send-emails-in-strapi-with-any-provider/
+https://kainikhil.medium.com/send-emails-using-strapi-%EF%B8%8F-24184071de21
+
+nested form
+https://stackoverflow.com/questions/52831105/nested-formarray-within-group-angular-6
+https://stackblitz.com/edit/angular-reactive-form-eg-with-currency-zpjyt5?file=src%2Fapp%2Fapp.component.html
+
+pdf generation in client side
+https://stackoverflow.com/questions/55019343/how-to-generate-a-pdf-using-angular-7
+https://www.positronx.io/angular-pdf-tutorial-export-pdf-in-angular-with-jspdf/
+
+https://www.c-sharpcorner.com/article/client-side-pdf-generation-in-angular-with-pdfmake/
+
+https://stackblitz.com/edit/angular-html-to-pdf-example-answer?file=src%2Fapp%2Fapp.component.ts
+
+https://www.freakyjolly.com/multipage-canvas-pdf-using-jspdf/
+
+https://www.freakyjolly.com/multipage-canvas-pdf-using-jspdf/

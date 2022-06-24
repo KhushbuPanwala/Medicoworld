@@ -1,0 +1,118 @@
+    downloadPDF() {
+
+        //const doc = new jsPDF();
+        //const specialElementHandlers = {
+        //    '#editor': function (element, renderer) {
+        //        return true;
+        //    }
+        //};
+
+        //const pdfTable = this.content.nativeElement;
+
+        //doc.fromHTML(pdfTable.innerHTML, 15, 15, {
+        //    width: 190,
+        //    'elementHandlers': specialElementHandlers
+        //});
+
+        //doc.save('tableToPdf.pdf');
+
+        let doc = new jsPDF('p', 'mm', 'a4', true); // A4 size page of PDF  
+
+        let data = this.content.nativeElement;
+        //document.getElementById('documentInfo');
+
+        html2canvas(data).then(canvas => {
+            // Few necessary setting options
+            let imgWidth = 208;
+            let pageHeight = 295;
+
+            let imgHeight = canvas.height * imgWidth / canvas.width;
+            const contentDataURL = canvas.toDataURL('image/png')
+            let position = 0;
+            doc.addImage(contentDataURL, 'PNG', 0, position, imgWidth, imgHeight);
+            doc.addPage()
+            doc.save('offline-form.pdf'); // Generated PDF 
+        });
+
+
+
+        return;
+
+
+        let pdf = new jsPDF('p', 'mm', 'a4', true); // A4 size page of PDF  
+        let personalInfo = document.getElementById('personalInfo');
+        let hospitalInfo = document.getElementById('hospitalInfo');
+        let referenceInfo = document.getElementById('refereceInfo');
+        let qualificationInfo = document.getElementById('qualificationInfo');
+        let documentInfo = document.getElementById('documentInfo');
+
+
+
+        html2canvas(personalInfo).then(canvas => {
+            // Few necessary setting options
+            let imgWidth = 208;
+            let pageHeight = 295;
+
+            let imgHeight = canvas.height * imgWidth / canvas.width;
+            let heightLeft = imgHeight;
+            //let pdf = new jsPDF('p', 'mm', 'a4', true); // A4 size page of PDF  
+            const contentDataURL = canvas.toDataURL('image/png')
+            let position = 0;
+            pdf.addImage(contentDataURL, 'PNG', 0, position, imgWidth, imgHeight);
+        });
+
+        html2canvas(hospitalInfo).then(canvas => {
+            // Few necessary setting options
+            let imgWidth = 208;
+            let pageHeight = 295;
+
+            let imgHeight = canvas.height * imgWidth / canvas.width;
+            const contentDataURL = canvas.toDataURL('image/png')
+            let position = 0;
+            pdf.addPage()
+            pdf.addImage(contentDataURL, 'PNG', 0, position, imgWidth, imgHeight);
+
+        });
+
+        html2canvas(referenceInfo).then(canvas => {
+            // Few necessary setting options
+            let imgWidth = 208;
+            let pageHeight = 295;
+
+            let imgHeight = canvas.height * imgWidth / canvas.width;
+            const contentDataURL = canvas.toDataURL('image/png')
+            let position = 0;
+            pdf.addPage()
+            pdf.addImage(contentDataURL, 'PNG', 0, position, imgWidth, imgHeight);
+
+        });
+
+        html2canvas(qualificationInfo).then(canvas => {
+            // Few necessary setting options
+            let imgWidth = 208;
+            let pageHeight = 295;
+
+            let imgHeight = canvas.height * imgWidth / canvas.width;
+            const contentDataURL = canvas.toDataURL('image/png')
+            let position = 0;
+            pdf.addPage()
+            pdf.addImage(contentDataURL, 'PNG', 0, position, imgWidth, imgHeight);
+
+        });
+        html2canvas(documentInfo).then(canvas => {
+            // Few necessary setting options
+            let imgWidth = 208;
+            let pageHeight = 295;
+
+            let imgHeight = canvas.height * imgWidth / canvas.width;
+            const contentDataURL = canvas.toDataURL('image/png')
+            let position = 0;
+            pdf.addPage()
+            pdf.addImage(contentDataURL, 'PNG', 0, position, imgWidth, imgHeight);
+
+            pdf.save('offline-form.pdf'); // Generated PDF 
+        });
+
+
+        this.router.navigateByUrl('/society/' + this.societyId + '/registration');
+    }

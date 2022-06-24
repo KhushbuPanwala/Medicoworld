@@ -1,0 +1,515 @@
+24-03-2021
+Discussion with Rushi sir and team for Medico world project  -0.75
+Discussion with Hasanbhai for project setup and do setup -3.5
+
+25-03-2021
+Start Reading document for Requirement
+Explore Application 
+View wire frames
+
+26-03-2021
+Complete reading document for requirement
+Half day SL
+
+27-03-2021 -lS
+Meeting with Medico world
+
+30-03-2021
+Full day SL
+
+31-03-2021
+Started Implementing validation in Member Add page
+Discussion with Kananmam for K3CS document
+Discussion with KPMG developer team for knowledge base document
+
+01-04-2021
+Continue Implementation for Member Add page validation
+Start Document for K3CS project
+
+K3CS basic document link
+https://promactinfotech1.sharepoint.com/:w:/r/sites/KPMG-ContingentWMS/_layouts/15/Doc.aspx?sourcedoc=%7B1E4DEF4C-A3F3-4585-8695-A3F68AB422E5%7D&file=K3CS%20-%20Basic.docx&action=default&mobileredirect=true
+
+
+02-04-2021
+Implement import functionality in Member directory
+Discussion with Client for import doubts
+Update document for K3CS admin side admin panel 
+
+05-04-2021
+Implement import existing, import new member
+Apply filter based on selected tab  incomplete, new request etc...
+Implement replace member functionality
+
+06-04-2021
+Update document for K3CS user side master menu
+Implement merge member functionality
+Discussion with client for replace and merge functionality
+
+07-04-2021
+Implement merge, replace, merge all, replace all member 
+Update document for K3CS user side masters
+
+08-04-2021
+Implement split member functionality
+Implement society inquiry page design 
+
+
+9-04-2021
+Implement society inquiry page in user side
+Implement Login with registration no. in user side
+Implement is approval process in User side
+
+
+12-04-2021
+Implement is approval process in admin side
+Update document for K3CS user side modules and admin panel
+
+
+
+13-04-2021
+Implement Executive committee --  add, update, delete member and committee
+Implement design for add new member
+
+14-04-2021
+Demo meting for medicoworld
+Start Implementing executive society
+
+15-04-2021
+Change design as per discussion with Tapan shah
+Discussion with rushi sir for demo meting and htmlagility pack 
+Start learning and Implement code for htmlagilitypack 
+
+16-04-2021
+Implement code for htmlagilitypack 
+discussion with manshi for excel structure
+Implement code for excel generation
+Discussion with kananmam for KPMG CHI project
+Discussion with setu for basic functionality overview of KPMG CHI project
+
+19-04-2021
+Analyze and give estimation for KPMG CHI project
+Implement code for generate excel for HTML Agility
+
+20-04-2021
+Discussion with Kananmam for CHI project estimation and queries -2hrs
+Update KPMG 3CS document for Exception Report and Reports -2hrs
+Half day SL
+
+21-04-2021
+Discussion with kananmam for CHI project and updates on queries -2 hrs
+Update KPMG 3CS document for Dashboard -1 hrs
+Started working on Medico world
+Implement split member
+
+
+22-04-2021
+Implement split member
+Implement design change for society inquiry response (admin panel)
+Implement import member for random uploaded excel file
+
+23-04-2021
+Implement import member for random uploaded excel file
+Solve add member issue for new and existing member  
+Implement edit member
+
+24-04-2021-ls
+Update document for K3CS dashboard- done
+Implement edit member
+
+26-04-2021
+Implement bind edit member for personal information, hospital information
+
+27-04-2021
+Implement add payment information in add member, add multiple qualification,  reference detail
+Implement bind edit member for reference detail, qualification, payment detail
+
+28-04-2021
+Implement user side showing detail of Member directory
+
+29-04-2021
+Implement user side showing detail of Executive Committee member
+
+
+30-04-2021
+Discussion with rushi sir for multiple hospital adding
+Try to solve issue for multiple hospital adding
+
+
+3-05-2021-- CL
+
+4-05-2021
+Try to solve issue for multiple hospital adding
+Discussion with rushikesh for questy mcq question
+
+05-05-2021
+Generate mcq questions for questy from AllIndiaExam site
+
+06-05-2021
+Generate mcq questions for questy from AllIndiaExam site
+
+07-05-2021
+Generate mcq questions for questy from AllIndiaExam site
+discussion with rushikesh for soundfoundry site mcq
+
+10-05-2021
+Generate mcq questions for questy from Soundfoundry site
+
+11-05-2021
+Generate mcq questions for questy from Soundfoundry site
+
+12-05-2021 
+Generate mcq questions for questy from Soundfoundry site (theorical)
+
+13-05-2021
+Generate mcq questions for questy from Soundfoundry site (junit, data structure )
+
+14-05-2021 
+Generate mcq questions for questy from Soundfoundry site (css, html)
+
+17-05-2021
+Generate mcq questions for questy from Soundfoundry site (html,oracle)
+
+18-05-2021
+Generate mcq questions for questy from Soundfoundry site (oracle, ruby, computer fundamental)
+
+19-05-2021
+Generate mcq questions for questy from Soundfoundry site (computer fundamental)
+
+20-05-2021
+Generate mcq questions for questy  (mix)
+
+21-05-2021
+Generate mcq questions for questy from Soundfoundry site (mix, js,hadoop)
+Discussion with rushikesh for requirement of digital marketing MCQ  - 10 min
+
+24-05-2021
+Generate mcq questions for questy for digital marketing (SEO, SMM)
+
+25-05-2021
+Generate mcq questions for questy for digital marketing (PPC, Wordpress)
+
+26-05-2021
+Half day SL
+Generate mcq questions for questy for digital marketing (contant writer, graphics designer)
+
+27-05-2021
+Medicoworld executive committee member 
+change society inquiry design
+
+28-05-2021
+Medicoworld Society registration for myself
+
+31-05-2021
+Medicoworld Society registration for myself
+
+1-06-2021
+Medicoworld end user login flow
+
+2-06-2021
+Implement incomplete member approval flow in medicoworld
+Implement document required section  in society registration page
+
+03-06-2021
+Create mcq questions for questy (cloud service, azure, aws, testing)
+
+04-06-2021
+discussion with rushi sir for medicoworld status
+create road map for medicoworld project
+Implement assign module in executive committee member.
+
+7-06-2021
+Create mcq question for questy (photoshop, adobe reader, facebook advt.)
+Implement role management in medicoworld (bind module list, member list)
+
+08-06-2021
+Implement role management in medicoworld (add module wise permission to member)
+Implement add member , add role for role management 
+
+09-06-2021
+Create mcq question for questy (mechnical engineering)
+
+10-06-2021
+Create mcq question for questy (mechnical engineering)
+
+
+11-06-2021
+Create 3 level architecture for sanfoundary site all engineering mcq without image
+Create mcq question for questy (all engineering)
+Implement assign module for role management
+
+
+14-06-2021
+Generate mcq questions for Questy from sanfoundary (programing and competency provided by firoza)
+Implement role management assign module in medicoworld
+Implement permission wise view society menu in medicoworld
+Discussion with Dr. Tapan Shah for role management query
+
+15-06-2021
+Implement edit member based on permission in medicoworld project
+Discussion with Kananmam for ValueScout project
+Discussion with Kananmam and Twinkle for ValueScout project
+Reading document for ValueScout project
+
+
+16-06-2021
+Implement edit member for society home page -bind dynamic field
+Watching video for valueScout project
+
+17-06-2021
+Implement edit member for member directory
+Implement payment information for society registration
+Discussion with Mansi for code scraping utility
+
+Scrum meting valueScout project
+Watching video for valueScout project
+Microservice Technical discussion with valueScout Team (Depanker, Dhaval ....)
+
+
+18-06-2021
+Implement common component fot Edit member,add member, add/edit role  member in medicoworld project
+Implement permission based access in society member directory
+Watch video for ValueScout Project module overview
+User login and signup/ roles and permissions (Auth 0)
+
+
+21-06-2021
+Watch Module wise video for ValueScout Project (Question maker, Account profile, Organization & company ...)
+Refers R&R Document
+
+22-06-2021
+Watch Module wise video for ValueScout Project (Annual & Quarterly Plan, Strategic Plan, Creating Logic and Lead Assessment...)
+
+23-06-2021  -4 hrs
+Watch Module wise video for ValueScout Project (Report Writer, VS database models and Messaging Server, CICD ...)
+Medicoworld download pdf
+discuss with rushi sir for download pdf issue
+discussion with deepanker for task 
+
+
+24-06-2021  -3hrs
+- Medicoworld Download pdf 
+- Do the analysis for demo environment task
+- Discussion with Kananmam and Dipankar for demo environment task
+
+
+25-06-2021  -1hrs
+- Refer the answer given by  client for demo environment  
+	task related queries and noted down some other queries related to demo environment  task 
+- Do project setup for valueScout project
+ discussion with Chintan sir for mail sending from strapi
+ discussion with rushi sir for generating OTP templates
+  implement role based access in gallery society inquiry for admin in medicoworld
+Try to solve mail sending issue
+
+26-06-2021  --LS
+Write knowledge base document for HTMLAgility Pack
+Write knowledge base document for Create PDF in Angular (client side)
+
+28-06-2021
+MedicoWorld - 6
+Implement society list, add member, change in download form
+Discussion with Dr. Tapan Shah for medicoworld society registration
+ValueScout - 2
+Scrum meting
+Discussion with Deepanker for project setup
+Do project setup
+Client Meting 
+
+29-06-2021
+MedicoWorld 
+Apply filter on society List	
+
+ValueScout
+Fix bug - https://quantive.atlassian.net/browse/PR-3605 -0.5hr
+Attend meting with client -0.5
+Standup meting -0.5
+Do data entry for PR-3605 --0.5
+
+30-06-2021
+Record video
+https://web.microsoftstream.com/video/fa9cdf1b-62c6-42fc-9d32-e0c0f29e2ded
+ValueScout
+fix bug - https://quantive.atlassian.net/browse/PR-3852
+Update meting note, Mom sheet for 29-06-2021
+start to fix another bug 
+https://quantive.atlassian.net/browse/PR-3538
+
+01-07-2021
+- Discussion with Deepanker for demo environment
+- Fix bug PR-3538 
+- Look into issue for slow stagging site -	PR-4058
+- Start working on Demo environment task -	PR-3986
+- Sprint planing
+
+MedicoWorld
+- Upload all things in sharepoint 
+- Discussion with Krupa di for completed and panging parts
+ 
+02-07-2021
+- Try to solve issue for slow stagging site -	PR-4058
+- Start working on Demo environment task -	PR-3986
+- Discussion with developer team for query optimization
+- Discussion with Rushi sir for slow site working issue
+- Try implement separate api for getting value assessment -	PR-4058
+
+05-07-2021
+- Solve issue for slow stagging site -	PR-4058  If Rushi sir give any solution
+- Demo environment
+
+
+06-07-2021
+- Create Common methods to read excel and seed data for demo environment
+- Discussion with Ayaz and kananmam for PR-3984
+- Medicoworld Demo -1
+
+
+07-07-2021
+- Discussion with Kananmam for Removing data from staging	
+- PR 4106, 4107, 4108, 4109 - Removing data from staging
+- Update sprint planing doc for 65, and task in jira
+
+08-07-2021
+Continue with demo environment task
+Discussion with Kananmam for sprint planning 66
+
+09-07-2021
+Continue with demo environment task
+Discussion with dc for seeding time optimization
+
+12-07-2021
+Seed data on user creation for demo environment
+
+
+13-07-2021
+Work on  Reset demo data -3985
+
+14-07-2021
+Test Demo environment functionality in local
+Discussion and analysis for different task given by Kananmam (2172, 4087,4057)
+PR Review -Ayaz -2, Dhaval -1
+
+Implement - not pushed 
+https://quantive.atlassian.net/browse/PR-4087
+
+
+15-07-2021
+Sprint planing 67
+Analysis and implementation -- PR-4087, PR-4086, PR-4101
+
+16-07-2021
+PR-3985- reset demo data
+Demo environment release
+
+MedicoWorld
+
+
+19-07-2021
+https://quantive.atlassian.net/browse/PR-2172  -- Value Scout Login - partial done
+https://quantive.atlassian.net/browse/PR-4102 -- done
+https://quantive.atlassian.net/browse/PR-4073  -- done
+Sign In with Auth0
+
+Client status call and query discussion 
+
+
+20-07-2021
+https://quantive.atlassian.net/browse/PR-4072
+https://quantive.atlassian.net/browse/PR-4169
+https://quantive.atlassian.net/browse/PR-4166
+https://quantive.atlassian.net/browse/PR-4154
+https://quantive.atlassian.net/browse/PR-4153
+https://quantive.atlassian.net/browse/PR-4143
+
+Testing Dashboard, Value Assessment, Financial Questions, Financial Performance
+
+21-07-2021
+https://quantive.atlassian.net/browse/PR-4187
+
+Start Analysis and working	
+https://quantive.atlassian.net/issues/?jql=assignee%20in%20(609cf50b2614ec006858cee3)%20AND%20project%20%3D%20PR%20AND%20status%20%3D%20%22To%20Do%22%20ORDER%20BY%20priority%20DESC%2C%20created%20DESC					
+Bug	PR-4164	
+Bug	PR-4185	
+Bug	PR-4183	
+Bug	PR-4168	
+Testing QM, EM
+
+22-07-2021
+4190, 4186, 4195
+https://quantive.atlassian.net/browse/PR-4192
+4207 - global search
+
+23-07-2021
+4165  side bar collapse
+Value Overview and VCS - Analysis and working flow
+Discussion with ayaz, 4160-1
+
+26-07-2021
+Discussion with Ayaz for PR-4160
+PR- 4160
+
+27-07-2021
+- PR-4160
+- PR-4186 
+- PR-4190  - showing dashboard card data
+- PR-4195 
+Scrum meting, discussion with designer for edit modeler panel ui
+Help nidhi for medicoworld routing --1.5hrs
+
+
+28-07-2021
+PR-4189 -30m
+PR-4216 - 30m
+PR-4217  -- waiting
+PR-4160 -3h 30m
+Scrum meting, discussion with designer for edit modeler panel ui  -0.5
+Help nidhi for medicoworld routing issue --3hrs
+
+
+29-07-2021
+Sprint planing for Sprint 69 -0.5hrs
+Testing werx for migration -1.5hrs
+Discussion with Rushi sir for Auth0 issue in demo environment
+Do staging build
+Help soham for unit testing 
+PR-3933 - Analysis and Implementation Dashboard -6 hrs
+
+30-07-2021
+PR-3933 - Analysis and Implementation Dashboard -4 hrs
+
+Discussion with kananmam for task assignment and do analysis on it
+Analysis for auth0 Microsoft and google integration -PR-4188
+https://manage.auth0.com/dashboard/us/recondo/marketplace/microsoft-account-social-connection
+integrate follow setup guide
+
+
+31-07-2021 -LS
+
+
+2-08-2021
+Export Data -PR-4158 -6hrs
+Medicoworld  -2hrs
+
+
+03-08-2021
+Intgrate pupeter:  PR-4158 -3hrs
+implement loe - PR-4259  -5hrs
+Discussion with kananmam and dhaval for release, task of objectives
+
+04-08-2021
+Help Nidhi - medicoworld: -3.5hrs
+Do staging PR
+Show lead assessment - PR-4276 - 0.5hr
+Hide loe - PR-4259-0.5
+Implement report export for Annual plan-  PR-4158 -1.5hrs
+Add user issue:  PR-4261 - 3.5
+
+
+05-08-2021
+4261- login issue -3
+Sprint planing -0.5
+PR-4251 - 2hrs
+medicoworld: 3
+
+06-08-2021
+PR-4251 - quantive user permission  -6
+medicoworld -2hrs
